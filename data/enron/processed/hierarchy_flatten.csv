@@ -1,0 +1,131 @@
+email;name;ManagementLevel;details;flattenManagementLevels
+albert.meyers;Albert Meyers;Employee;Specialist;3
+a..martin;Thomas Martin;Vice President;;1
+andrew.lewis;Andrew Lewis;Director;;2
+andy.zipper;Andy Zipper;Vice President;Enron Online;1
+a..shankman;Jeffrey Shankman;President;Enron Global Mkts;1
+barry.tycholiz;Barry Tycholiz;Vice President;;1
+benjamin.rogers;Benjamin Rogers;Employee;Associate;3
+brad.mckay;Bradley Mckay;Employee;;3
+b..sanders;Richard Sanders;Vice President;Enron WholeSale Services;1
+cara.semperger;Cara Semperger;Employee;Senior Analyst Cash;3
+c..giron;Daron Giron;Employee;;3
+chris.dorland;Chris Dorland;Manager;;2
+chris.germany;Chris Germany;Employee;;3
+cooper.richey;Cooper Richey;Manager;;2
+craig.dean;Craig Dean;Trader;;3
+dana.davis;Dana Davis;Vice President;Term;1
+dan.hyvl;Dan Hyvl;Employee;;3
+danny.mccarty;Danny McCarty;Vice President;;1
+daren.farmer;Daren Farmer;Manager;Logistics Manager;2
+darron.giron;Daron Giron;Employee;;3
+david.delainey;David Delainey;CEO;Enron North America and Enron Enery Services;1
+diana.scholtes;Diana Scholtes;Trader;;3
+d..martin;Thomas Martin;Vice President;;1
+don.baughman;Don Baughman;Trader;;3
+drew.fossum;Drew Fossum;Vice President;;1
+d..steffes;James Steffes;Vice President;Government Affairs;1
+e..haedicke;Mark Haedicke;Managing Director;Legal Department;2
+elizabeth.sager;Elizabeth Sager;Employee;;3
+eric.bass;Eric Bass;Trader;;3
+eric.saibi;Eric Saibi;Trader;;3
+errol.mclaughlin;Errol McLaughlin;Employee;;3
+e.taylor;Mark Taylor;Employee;;3
+f..brawner;Sandra Brawner;Director;;2
+f..campbell;Larry Campbell;Employee;Senior Specialist;3
+f..keavey;Peter Keavey;Employee;;3
+fletcher.sturm;Fletcher Sturm;Vice President;;1
+frank.ermis;Frank Ermis;Director;;2
+geir.solberg;Geir Solberg;Employee;Analyst;3
+geoff.storey;Geoffery Storey;Director;;2
+greg.whalley;Greg Whalley;President;;1
+harry.arora;Harpreet Arora;Vice President;;1
+h..lewis;Andrew Lewis;Director;;2
+holden.salisbury;Holden Salisbury;Employee;Cash Analyst;3
+hunter.shively;Hunter Shively;Vice President;;1
+james.derrick;James Derrick;In House Lawyer;;3
+james.steffes;James Steffes;Vice President;Government Affairs;1
+jane.tholt;Jane Tholt;Vice President;;1
+jay.reitmeyer;Jay Reitmeyer;Employee;;3
+jeff.dasovich;Jeff Dasovich;Employee;Government Relation Executive;3
+jeff.king;Jeff King;Manager;;2
+jeffrey.hodge;John Hodge;Managing Director;;2
+jeffrey.shankman;Jeffrey Shankman;President;Enron Global Mkts;1
+jeff.skilling;Jeffery Skilling;CEO;;1
+j..farmer;Daren Farmer;Manager;Logistics Manager;2
+jim.schwieger;Jim Schwieger;Trader;;3
+j..kaminski;Vince Kaminski;Manager;Risk Management Head;2
+j.kaminski;Vince Kaminski;Manager;Risk Management Head;2
+j..kean;Steven Kean;Vice President;Vice President & Chief of Staff;1
+joe.quenet;Joe Quenet;Trader;;3
+joe.stepenovitch;Joe Stepenovitch;Vice President;Enery marketting and trading Florida;1
+john.arnold;John Arnold;Vice President;;1
+john.forney;John Forney;Manager;Real time Trading Desk;2
+john.hodge;John Hodge;Managing Director;;2
+john.lavorato;John Lavorato;CEO;Enron America;1
+john.zufferli;John Zufferli;Vice President;;1
+jonathan.mckay;Jonathan Mckay;Director;;2
+j..sturm;Fletcher Sturm;Vice President;;1
+juan.hernandez;Juan Hernandez;Employee;Senior Specialist Logistics;3
+judy.townsend;Judy Townsend;Employee;;3
+k..allen;Philip Allen;Manager;;2
+kam.keiser;Kam Keiser;Employee;;3
+kate.symes;Kate Symes;Employee;;3
+kay.mann;Kay Mann;Employee;;3
+keith.holst;Keith Holst;Director;;2
+kenneth.lay;Kenneth Lay;CEO;;1
+kevin.hyatt;Kevin Hyatt;Director;Pipeline Business;2
+kevin.presto;Kevin Presto;Vice President;;1
+kevin.ruscitti;Kevin Ruscitti;Trader;;3
+larry.campbell;Larry Campbell;Employee;Senior Specialist;3
+larry.may;Lawrence May;Director;;2
+lindy.donoho;Lindy Donoho;Employee;;3
+louise.kitchen;Louise Kitchen;President;Enron Online;1
+mark.e.haedicke;Mark Haedicke;Managing Director;Legal Department;2
+mark.haedicke;Mark Haedicke;Managing Director;Legal Department;2
+mark.taylor;Mark Taylor;Employee;;3
+martin.cuilla;Martin Cuilla;Manager;;2
+mary.fischer;Mary Fischer;Employee;;3
+matthew.lenhart;Matthew Lenhart;Employee;;3
+matt.motley;Matthew Motley;Director;;2
+m..forney;John Forney;Manager;Real time Trading Desk;2
+michele.lokay;Michelle Lokay;Employee;Administrative Asisstant;3
+michelle.lokay;Michelle Lokay;Employee;Administrative Asisstant;3
+mike.carson;Mike Carson;Manager;;2
+mike.grigsby;Michael Grigsby;Manager;;2
+mike.maggi;Michael Maggi;Director;;2
+mike.swerzbin;Mike Swerzbin;Trader;;3
+monika.causholli;Monika Causholli;Employee;Analyst Risk Management;3
+m..presto;Kevin Presto;Vice President;;1
+m..tholt;Jane Tholt;Vice President;;1
+peter.keavey;Peter Keavey;Employee;;3
+phillip.allen;Philip Allen;Manager;;2
+phillip.platter;Phillip Platter;Employee;Sr.Specialist;3
+richard.ring;Richard Ring;Employee;;3
+richard.sanders;Richard Sanders;Vice President;Enron WholeSale Services;1
+richard.shapiro;Richard Shapiro;Vice President;Regulatory Affairs;1
+rick.buy;Rick Buy;Manager;Chief Risk Management Officer;2
+robert.badeer;Robert Badeer;Director;;2
+robert.benson;Robert Benson;Director;;2
+rod.hayslett;Rod Hayslett;Vice President;Also Chief Financial Officer and Treasurer;1
+ryan.slinger;Ryan Slinger;Trader;;3
+sally.beck;Sally Beck;Employee;Chief Operating Officer;3
+sandra.brawner;Sandra Brawner;Director;;2
+scott.neal;Scott Neal;Vice President;;1
+shelley.corman;Shelley Corman;Vice President;Regulatory Affairs;1
+s..shively;Hunter Shively;Vice President;;1
+stacy.dickson;Stacy Dickson;Employee;;3
+stanley.horton;Stanley Horton;President;Enron Gas Pipeline;1
+stephanie.panus;Stephanie Panus;Employee;;3
+steven.kean;Steven Kean;Vice President;Vice President & Chief of Staff;1
+susan.pereira;Susan Pereira;Employee;;3
+teb.lokey;Teb Lokey;Manager;Regulatory Affairs;2
+theresa.staab;Theresa Staab;Employee;;3
+t..hodge;John Hodge;Managing Director;;2
+thomas.martin;Thomas Martin;Vice President;;1
+t..lucci;Paul Lucci;Employee;;3
+tori.kuykendall;Tori Kuykendall;Trader;;3
+tracy.geaccone;Tracy Geaccone;Employee;;3
+vince.kaminski;Vince Kaminski;Manager;Risk Management Head;2
+w..delainey;David Delainey;CEO;Enron North America and Enron Enery Services;1
+w..pereira;Susan Pereira;Employee;;3
